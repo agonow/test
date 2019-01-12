@@ -1,0 +1,6 @@
+
+#banner .login{width:340px;height:520px;marin:20px 0 0 0;padding:0 30px;background:#fff;position:absolute;left:1209px;top:14px;}
+#banner .login .huanying{width:340px;height:80px;line-height:80px;text-align:center;font-size:22px;font-weight:bold;color:#333;}
+#banner .login .huanying .active{color:#D70057;}
+#banner .login .huanying .account{display:inline-block;width:100px;height:24px;line-height:24px;text-align:center;cursor:pointer;}
+#banner .login .huanying .borderleft{display:inline-block;height:24px;line-height:24px;text-align:center;cursor:pointer;}
